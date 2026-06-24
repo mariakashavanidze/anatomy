@@ -1,0 +1,6 @@
+{
+  "name": "Anatomy Assistant",
+  "description": "An educational AI assistant specialized in human anatomy and physiology for middle school students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
